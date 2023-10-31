@@ -1,1 +1,1 @@
-CostoMensual = ( Monto del Prestamo * (Tasa de Intereses Mensuales ( + Tasa de Intereses Mensuales )^TotaldeMeses))/((1 + Tasa de Intereses Mensuales)^Total de Meses - 1)
+1. CostoMensual = ( Monto del Prestamo * (Tasa de Intereses Mensuales ( + Tasa de Intereses Mensuales )^TotaldeMeses))/((1 + Tasa de Intereses Mensuales)^Total de Meses - 1)
