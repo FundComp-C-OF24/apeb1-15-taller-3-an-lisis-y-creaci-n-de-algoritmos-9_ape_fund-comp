@@ -1,0 +1,12 @@
+1. Inicio
+2. Pedir costo del CPU
+3. Leer costo del CPU
+4. Pedir costo del teclado 
+5. Leer costo del teclado 
+6. Pedir costo de la pantalla 
+7. Leer costo de la pantalla 
+8. Pedir costo del raton 
+9. Pedir costo del raton 
+10. Calculamos el costo de la computadora sumando el costo del CPU, más el costo del teclado, mas costo el de la pantalla, mas el costo del ratón.
+11. Mostrar el costo de la computadora 
+12. Fin
