@@ -1,0 +1,4 @@
+1. Total= costo *consumo
+2. Si edad>65 entonces
+3. Descuento = total * 0.9
+4. total final= total-descuento
