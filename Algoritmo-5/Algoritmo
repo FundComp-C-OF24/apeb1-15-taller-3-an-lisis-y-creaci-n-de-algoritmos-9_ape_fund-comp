@@ -6,7 +6,7 @@
 6. Pedir costo de la pantalla 
 7. Leer costo de la pantalla 
 8. Pedir costo del raton 
-9. Pedir costo del raton 
+9. Leer costo del raton 
 10. Calculamos el costo de la computadora sumando el costo del CPU, más el costo del teclado, mas costo el de la pantalla, mas el costo del ratón.
 11. Mostrar el costo de la computadora 
 12. Fin
