@@ -1,0 +1,11 @@
+Algoritmo 6
+1.Inicio
+2. Pedir el costo del prestamo
+3. Leer el costo del prestamo
+4. Pedir el interes mensual a cobrar
+5. Leer el interes mensual a cobrar
+6. Pedir el plazo del mes 
+7. Leer el plazo del mes
+8.Calculamos el pago mensual el monto de la tasa de interes mensual por uno, mas la tasa del interes mensual esto elevamos al total de meses y todo esto sobre uno mas la tasa de interes mensual y esto elevamos al total de meses menos uno
+9. Mostramos el pago mensual
+10.Fin
