@@ -1,0 +1,4 @@
+1. Total= costo* consumo
+2. Edad < 30 Entonces
+3. Descuento= Total*0.2
+4. Total final= total - descuento
