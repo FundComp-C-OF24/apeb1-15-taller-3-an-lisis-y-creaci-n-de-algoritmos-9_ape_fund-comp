@@ -1,0 +1,16 @@
+1. Inicio 
+2. Pedir el valor mensual de netflix
+3. Leer el valor mesual de netflix
+4. Pedir el valor mesual de Youtube Premium
+5. Leer el valor mesual de youtube Premium
+6. Pedir el valor mensual de Dropbox
+7. Leer el costo mesual de Dropbox
+8. Pedir el valor mensual de Spotify
+9. Leer el valor mensual de Spotify
+10. Calcular el valor total sumando el valor mensual de netflix mas el valor de youtube premium mas el valor de dropbox mas el valor de spotify
+11. Mostrar el total a pagar
+12. Perdir la de edad de la persona que posee dicho servicio
+13. Si la persona tiene menos 30 años entonces tendra descuento del veinte por cierto y al resultado total a pagar se le multiplica por cero punto dos
+14. Calcular el total final donde se resta el total inicial menos el resultado del descuento.
+15. Mostrar el total a pagar
+16.Fin
