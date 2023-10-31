@@ -1,0 +1,12 @@
+1. Inicio
+2.Pedir el costo kilovatio/hora
+3.Leer el costo de kilovatio/hora
+4.Pedir el consumo de kilovatios consumidos en el mes
+5.Leer el costo de kilovatios consumidos en el mes
+6.Calcular Plantilla de luz costo kilovatio/hora por costo kilovatios en el mes
+7.Pedir edad
+8.Leer edad 
+9.Si la edad es mayor o igual que 65
+10. Calcular descuento costo kilovatio/hora por costo kilovatios en el mes
+11.Mostrar el descuento
+12.Fin
